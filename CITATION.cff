@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Please cite this repository if you use the code."
+title: "Pintail Dynamic Subsidies Analysis"
+authors:
+  - family-names: Mattsson
+    given-names: Brady J.
+  - family-names: Windt
+    given-names: Jendrik
+  - family-names: Ibañez
+    given-names: Marc
+  - family-names: Cooper
+    given-names: Gottfried
+  - family-names: Semmens
+    given-names: Darius J.
+  - family-names: Thogmartin
+    given-names: Wayne E.
+  - family-names: Sample
+    given-names: Christine
+  - family-names: Dubovsky
+    given-names: James
+  - family-names: Derbridge
+    given-names: Jonathan J.
+  - family-names: Diffendorfer
+    given-names: Jay
+  - family-names: Lopez-Hoffman
+    given-names: Laura
+doi: 10.xxxx/your-doi-if-you-have-one
+url: "https://github.com/Cooper-13/Data-Storage-for-Pintail-Dynamic-Subsidies-Paper"
+version: "1.0.0"
+date-released: 2026-09-17

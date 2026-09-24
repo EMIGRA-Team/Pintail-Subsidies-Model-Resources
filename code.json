@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "status": "Prototype",
+  "releaseDate": "2026-09-17",
+  "organization": "Especies Migratorias y Gobernanza Respetuosa de sus Ambientes • Migratory Species and the Respectful Governance of their Habitats",
+  "description": "Analysis code and workflows for Pintail Dynamic Subsidies modeling.",
+  "permissions": {
+    "licenses": [
+      {
+      "URL": "https://opensource.org/licenses/MIT",
+      "name": "MIT"
+      }
+    ]
+  },
+  "repositoryURL": "https://github.com/Cooper-13/Data-Storage-for-Pintail-Dynamic-Subsidies-Paper",
+  "metadataType": "software",
+  "contact": {
+    "name": "Brady J. Mattsson",
+    "email": "brady.mattsson@boku.ac.at"
+  },
+  "keywords": ["pintail", "dynamic subsidies", "population modeling", "ecosystem services", "R"]
+}
